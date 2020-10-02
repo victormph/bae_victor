@@ -1,6 +1,8 @@
 
 # INTRODUCCIÓN A LAS BASES DE DATOS
 
+![Imagen de Ejemplo](/mnt/daw/home/bae_victor/trim1/ud1/tareas)
+
 1. ¿Qué es un archivo o fichero?
 2. Tipos de ficheros.
 3. Define brevemente los conceptos de registro y campo.
