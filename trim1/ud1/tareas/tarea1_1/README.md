@@ -74,3 +74,15 @@
     + Orientado a objetos  
 
 10. Tipos de archivos según su función en el tiempo.  
+
+- Permanentes  
+
+    ARCHIVOS MAESTROS: Contienen la información actualizada de los datos que pueden cambiar. Reflejan el estado actual de la aplicación o de algún aspecto de la misma.
+
+    ARCHIVOS HISTÓRICOS: Contienen los datos acumulados a lo largo del tiempo de los archivos que han experimentado actualizaciones.   
+
+- Temporales  
+
+    ARCHIVOS DE MOVIMIENTO O DE TRANSACCIONE: Contienen la información necesaria para actualizar los archivos maestros con los datos o resultados de las operaciones que se realizan. Una vez terminada cada operación, la información que contienen pierde su valor y utilidad, y puede ser destruida. Se emplean para dar de alta o de baja o para modificar algún registro.
+
+    ARCHIVOS DE MANIOBRA O INTERMEDIOS: Se utilizan para almacenar datos o resultados auxiliares que han de ser utilizados por otros procesos o programas. Su vida depende del tiempo que dure la operación en la que intervienen.
