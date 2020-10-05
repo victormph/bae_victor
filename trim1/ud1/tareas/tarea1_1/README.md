@@ -29,7 +29,7 @@
 
 3. Define brevemente los conceptos de registro y campo.  
 
-    Los registros son el elemento u objeto del que vas a guardar información, por ejemplo un usuario de una cuenta de Facebook. Un campo es cada uno de los apartados de información de ese elemento u objeto, por ejemplo su nombre, apellidos,...
+    Los registros son el elemento u objeto del que vas a guardar información, por ejemplo un usuario de una cuenta de Facebook. Un campo es cada uno de los apartados de información de ese elemento u objeto, por ejemplo su nombre, apellidos,etc.
 
 4. ¿Qué es una base de datos?  
 
@@ -43,7 +43,22 @@
 
     Cuenta con cinco tipos de componentes estos son: Lenguaje de la base de datos, Diccionario de datos, Gestor de la base de datos, Usuarios de la base de datos y Herramientas de la base de datos.
 
-7. Tipos de usuarios de las bases de datos, funciones y características de cada uno de ellos.
+7. Tipos de usuarios de las bases de datos, funciones y características de cada uno de ellos.   
+
+    Hay cuatro tipos de usuarios:
+
+    - Administrador  
+    Se encarga de crear la base de datos. Escoger el tipo de ficheros cuantos hay que crear que información se almacena, etc. En general es quien toma las decisiones relacionada con el funcionamiento físico de la base de datos.  
+
+    - Los diseñadores  
+    Son los encargados del diseño de la base de datos. Llevan a cabo la identificación de los datos, la relación entre ellos, sus restricciones, etc.  
+
+    - Los programadores de aplicación  
+    Una vez ya esta diseñada y construida a base de datos, los programadores se encargan de crear las aplicaciones las cuales utilizaran los usuarios finales. En dichas aplicaciones se podrá consultar, crear o modificar los datos en la base de datos.  
+
+    - Los usuarios finales  
+    Son los clientes finales los cuales darán uso a la base de datos.
+
 
 8. Organización de una base de datos.
 
