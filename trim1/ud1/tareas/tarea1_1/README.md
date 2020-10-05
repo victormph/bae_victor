@@ -8,7 +8,9 @@
 
     Estos ficheros están formados por los llamados **registros lógicos**, los cuales están compuestos por datos relativos de un mismo elemento u objeto.  
 
-    Los registros están divididos en **campos**, estos contienen cada una de las informaciones elementales que forman un registro.
+    Los registros están divididos en **campos**, estos contienen cada una de las informaciones elementales que forman un registro.  
+
+    ![image](https://user-images.githubusercontent.com/71833555/95093282-82d0c500-0720-11eb-80df-97cf026fb73a.png)
 
 2. Tipos de ficheros.
 
@@ -39,11 +41,15 @@
 
 5. Diferencias entre un sistema convencional de archivos y un Sistema Gestor de Base de Datos.  
 
-    La diferencia entre ellos es que el Gestor de Base de Datos nos ofrece programas para gestionarla y acceder a ella con facilidad, ademas su eficiencia y seguridad son mucho mejores respecto a un sistema de archivos convencional y su estructura esta diseñada para manipular grandes cantidades de información cosa que el sistema de archivos convencional no.
+    La diferencia entre ellos es que el Gestor de Base de Datos nos ofrece programas para gestionarla y acceder a ella con facilidad, ademas su eficiencia y seguridad son mucho mejores respecto a un sistema de archivos convencional y su estructura esta diseñada para manipular grandes cantidades de información cosa que el sistema de archivos convencional no.  
+
+    ![image](https://user-images.githubusercontent.com/71833555/95093418-abf15580-0720-11eb-9986-4218d90e7f0f.png)
 
 6. Componentes de un Sistema Gestor de Base de Datos.  
 
-    Cuenta con cinco tipos de componentes estos son: Lenguaje de la base de datos, Diccionario de datos, Gestor de la base de datos, Usuarios de la base de datos y Herramientas de la base de datos.
+    Cuenta con cinco tipos de componentes estos son: Lenguaje de la base de datos, Diccionario de datos, Gestor de la base de datos, Usuarios de la base de datos y Herramientas de la base de datos.  
+
+    ![image](https://user-images.githubusercontent.com/71833555/95093888-2d48e800-0721-11eb-974e-3127370905f0.png)
 
 7. Tipos de usuarios de las bases de datos, funciones y características de cada uno de ellos.   
 
@@ -59,7 +65,9 @@
     Una vez ya esta diseñada y construida a base de datos, los programadores se encargan de crear las aplicaciones las cuales utilizaran los usuarios finales. En dichas aplicaciones se podrá consultar, crear o modificar los datos en la base de datos.  
 
     - Los usuarios finales  
-    Son los clientes finales los cuales darán uso a la base de datos.
+    Son los clientes finales los cuales darán uso a la base de datos.  
+
+    ![image](https://user-images.githubusercontent.com/71833555/95093708-f83c9580-0720-11eb-98be-7f9cb52e4fad.png)
 
 
 8. Organización de una base de datos.  
