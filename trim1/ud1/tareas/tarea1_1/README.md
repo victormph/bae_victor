@@ -83,6 +83,6 @@
 
 - Temporales  
 
-    ARCHIVOS DE MOVIMIENTO O DE TRANSACCIONE: Contienen la información necesaria para actualizar los archivos maestros con los datos o resultados de las operaciones que se realizan. Una vez terminada cada operación, la información que contienen pierde su valor y utilidad, y puede ser destruida. Se emplean para dar de alta o de baja o para modificar algún registro.
+    ARCHIVOS DE MOVIMIENTO O DE TRANSACCIONE: Contienen la información necesaria para actualizar los archivos maestros con los datos o resultados de las operaciones que se realizan. Una vez terminada cada operación, la información que contienen pierde su valor y utilidad, y puede ser destruida.
 
     ARCHIVOS DE MANIOBRA O INTERMEDIOS: Se utilizan para almacenar datos o resultados auxiliares que han de ser utilizados por otros procesos o programas. Su vida depende del tiempo que dure la operación en la que intervienen.
