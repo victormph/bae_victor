@@ -4,15 +4,15 @@
 
 1. ¿Qué es un archivo o fichero?
 
-  Un fichero es un conjunto de información la cual esta relacionada entre si y se encuentra organizada de forma estructurada.   
+    Un fichero es un conjunto de información la cual esta relacionada entre si y se encuentra organizada de forma estructurada.   
 
-  Estos ficheros están formados por los llamados **registros lógicos**, los cuales están compuestos por datos relativos de un mismo elemento u objeto.  
+    Estos ficheros están formados por los llamados **registros lógicos**, los cuales están compuestos por datos relativos de un mismo elemento u objeto.  
 
-  Los registros están divididos en **campos**, estos contienen cada una de las informaciones elementales que forman un registro.
+    Los registros están divididos en **campos**, estos contienen cada una de las informaciones elementales que forman un registro.
 
 2. Tipos de ficheros.
 
-  Existen dos tipos de ficheros principales que a su vez se dividen en tres tipos cada uno:    
+    Existen dos tipos de ficheros principales que a su vez se dividen en tres tipos cada uno:    
 
   1. Permanentes  
 
@@ -21,13 +21,15 @@
   - Históricos  
 
   2. Temporales  
-  
+
   - Intermedios
   - De maniobras
   - De resultados   
 
 
-3. Define brevemente los conceptos de registro y campo.
+3. Define brevemente los conceptos de registro y campo.  
+
+  Los registros son el elemento u objeto del que vas a guardar información, por ejemplo un usuario de una cuenta de Facebook. Un campo es cada uno de los apartados de información de ese elemento u objeto, por ejemplo su nombre, apellidos,...
 
 4. ¿Qué es una base de datos?
 
