@@ -14,17 +14,17 @@
 
   Existen dos tipos de ficheros principales que a su vez se dividen en tres tipos cada uno:    
 
-  1. Permanentes
+  1. Permanentes  
 
-    + Maestros
-    + Constantes
-    + Históricos  
+  - Maestros
+  - Constantes
+  - Históricos  
 
-  2. Temporales
-
-    + Intermedios
-    + De maniobras
-    + De resultados   
+  2. Temporales  
+  
+  - Intermedios
+  - De maniobras
+  - De resultados   
 
 
 3. Define brevemente los conceptos de registro y campo.
