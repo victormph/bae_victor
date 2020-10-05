@@ -33,7 +33,9 @@
 
 4. ¿Qué es una base de datos?  
 
-    Se trata de un fichero el cual reúne toda la información relacionada en un único sistema de almacenamiento, pudiéndose utilizar de manera independiente desde una aplicación y ofrece una mejora para el tratamiento de la información.
+    Se trata de un fichero el cual reúne toda la información relacionada en un único sistema de almacenamiento, pudiéndose utilizar de manera independiente desde una aplicación y ofrece una mejora para el tratamiento de la información.  
+
+    ![base de datos](https://user-images.githubusercontent.com/71833555/95091576-87947980-071e-11eb-99b1-7e37097353da.jpg)
 
 5. Diferencias entre un sistema convencional de archivos y un Sistema Gestor de Base de Datos.  
 
