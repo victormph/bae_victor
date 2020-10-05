@@ -20,7 +20,6 @@
       * Constantes
       * Históricos  
 
-      ---
     2. Temporales
 
       * Intermedios
