@@ -60,7 +60,9 @@
     Son los clientes finales los cuales darán uso a la base de datos.
 
 
-8. Organización de una base de datos.
+8. Organización de una base de datos.  
+
+    Una base de datos se organiza en campos, registros, archivos. Un campo es una pieza de información ejemplo: el campo nombre o edad. Un registro es un conjunto de campos ejemplo: registro de los alumnos de un colegio. Un archivo es una colección de registros ejemplo: los archivos del área de una empresa "X".
 
 9. Modelos de bases de datos.  
 
@@ -71,4 +73,4 @@
     + Relacional
     + Orientado a objetos  
 
-10. Tipos de archivos según su función en el tiempo
+10. Tipos de archivos según su función en el tiempo.  
